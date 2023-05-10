@@ -1,0 +1,14 @@
+{
+  "appId": "com.testgame.app",
+  "appName": "test-game",
+  "bundledWebRuntime": false,
+  "webDir": "game",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  },
+  "server": {
+    "androidScheme": "https"
+  }
+}
